@@ -22,7 +22,6 @@ import NoMatch from './nomatch';
 
 /*Require Bootstrap*/
 import './libs/bootstrap.min.js'
-//import '.././css/libs/bootstrap.min.css'
 
 render((
   <Router history={browserHistory}>

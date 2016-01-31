@@ -14,7 +14,8 @@
     "underscore":"*",
     "less":"*",
     "body-parser":"*",
-    "rest":"*"
+    "rest":"*",
+    "cors":"*"
   },
   "browserify": {
     "transform": [

@@ -50,11 +50,10 @@ class Dashboard extends React.Component {
 	}
 	render() {
 		return (
-		  <div className="container">
+		  <div className="container dashboard">
 		  	<form>
           <div className="create-board">
             <div className="board-header">
-              <h3 className="board-header-h3">URL Shortener</h3>
             </div>
             <div className="control-group txt-control">
             	<div className="form-group">
